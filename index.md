@@ -2,7 +2,7 @@
 title: Innovation Office Teams
 permalink: /
 layout: default
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
 ---
 
 # Innovation Office - AWS Cloud Club Mapua University Manila
